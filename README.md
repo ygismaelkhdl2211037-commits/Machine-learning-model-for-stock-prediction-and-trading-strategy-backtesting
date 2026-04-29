@@ -1,1 +1,2 @@
-# Machine-learning-model-for-stock-prediction-and-trading-strategy-backtesting
+## 📊 Visualization
+![Trading Strategy Result](result.png)
